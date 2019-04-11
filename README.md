@@ -4,5 +4,5 @@
 
 ### titre niveau 3
 
-*element 1
-*element 2
+* element 1
+* element 2
